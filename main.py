@@ -16,7 +16,7 @@ class Game:
         print('''\n Wordle is a single player game. 
               A player has to guess a 5 letter word.
               You have six attempts.
-              Your progress guide "✔❌❌✔+"
+              Your progress guide "✔xx✔+"
               "✔" = letter at that position was guesses correctly
               "+" = Letter is in the word but another position
               "x" = Letter is not in the word. 
